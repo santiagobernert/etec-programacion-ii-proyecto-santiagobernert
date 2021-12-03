@@ -1,4 +1,3 @@
 # etec-programacion-ii-proyecto-santiagobernert
 
-Descargar los archivos y moverlos al Escritorio
-Ejecutar solo el archivo de menú de juego
+Descargar los archivos y moverlos al Escritorio, ejecutar solo el archivo de menú de juego
